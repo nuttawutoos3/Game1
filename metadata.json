@@ -1,0 +1,6 @@
+{
+  "name": "Cyber Retro Arena",
+  "description": "An interactive, full-screen retro game landing dashboard with a customizable controls remapping suite, high-fidelity sound controls, and a fully playable sandbox mini-game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
